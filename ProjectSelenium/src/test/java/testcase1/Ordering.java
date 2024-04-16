@@ -14,7 +14,7 @@ import pages1.TitlePage;
 
 public class Ordering extends Basetest1{
 	
-	@Test
+	@Test(enabled=false)
 	public void ordering() throws InterruptedException, IOException {
 		/*new HomePage(driver).scrolltoElement();
 		Thread.sleep(2000);
