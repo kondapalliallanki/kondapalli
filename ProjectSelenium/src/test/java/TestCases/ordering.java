@@ -21,7 +21,7 @@ import Pages.productsPage;
 import Pages.yourcartPage;
 import utils.ReadData;
 
-public class ordering extends  BaseTest{ //praveena
+public class ordering extends  BaseTest{ 
 	
 	@Test
 	public void productordering() throws IOException {
