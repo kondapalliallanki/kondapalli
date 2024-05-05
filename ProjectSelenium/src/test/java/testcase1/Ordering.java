@@ -9,7 +9,7 @@ import pages1.TitlePage;
  
 	public class Ordering extends Basetest1{     
 		
-		@Test //praveena
+		@Test //praveena   234234234
 		public void ordering() throws InterruptedException, IOException {
 			/*new HomePage(driver).scrolltoElement();
 			Thread.sleep(2000);
